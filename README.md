@@ -12,12 +12,13 @@ https://github.com/estcolros/UD24.git
 
 #### 3. Descripción 
 ```
-Ejercicios con SPRING Tool Suite 4, proyectos Maven y Gradle.
+Ejercicios con SPRING Tool Suite 4, se basa en crear peticiones HTTP con un CRUD. 
 ```
 
 #### 4. Lista con los pasos mínimos que se necesitan para clonar exitosamente el proyecto y echarlo a andar en local.
 ###### Install
 ```
 SPRING Tool Suite 4       https://spring.io/tools
+Postman                   https://www.postman.com/
 
 ```
